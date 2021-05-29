@@ -5,3 +5,6 @@ JP Funda APIを使ってFCF(フリーキャッシュフロー)のランキング
 
 ## JP Funda APIのURLはこちら
 https://www.jp-funda.com
+
+## 英語ブログ
+https://makko-tech.com/
